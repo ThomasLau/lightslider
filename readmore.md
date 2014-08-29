@@ -1,4 +1,4 @@
-*this prj forked from sachinchoolur's lightslider. i used it to meet some requirements in my recent project.
+this prj forked from sachinchoolur's lightslider. i used it to meet some requirements in my recent project.
 some bug-fix or adustments will be added later
 
 1, the gallery's navigater will be invisible if the hight of a photo over-flowes. here is a way to fix: 
